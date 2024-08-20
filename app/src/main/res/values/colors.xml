@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <!-- Primary Colors -->
+    <color name="colorPrimary">#1E88E5</color> <!-- A medium blue -->
+    <color name="colorPrimaryDark">#1565C0</color> <!-- A darker shade of blue -->
+    <color name="colorAccent">#64B5F6</color> <!-- A lighter shade for accent -->
+
+    <!-- Background Colors -->
+    <color name="colorBackground">#E3F2FD</color> <!-- Very light blue for backgrounds -->
+    <color name="colorSurface">#BBDEFB</color> <!-- Light blue for surfaces -->
+
+    <!-- Text Colors -->
+    <color name="colorPrimaryText">#212121</color> <!-- Dark gray for primary text -->
+    <color name="colorSecondaryText">#757575</color> <!-- Medium gray for secondary text -->
+
+    <!-- Button Colors -->
+    <color name="colorButton">#42A5F5</color> <!-- Bright blue for buttons -->
+    <color name="colorButtonText">#FFFFFF</color> <!-- White text on buttons -->
+
+    <!-- Other Colors -->
+    <color name="colorDivider">#B0BEC5</color> <!-- Light gray-blue for dividers -->
+    <color name="colorError">#D32F2F</color> <!-- Red for error messages -->
 </resources>

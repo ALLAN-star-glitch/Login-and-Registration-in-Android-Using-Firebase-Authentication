@@ -1,8 +1,23 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.LoginRegister1" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- Primary Colors -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+
+        <!-- Text Colors -->
+        <item name="android:textColorPrimary">@color/colorPrimaryText</item>
+        <item name="android:textColorSecondary">@color/colorSecondaryText</item>
+
+        <!-- Button Colors -->
+        <item name="colorButtonNormal">@color/colorButton</item>
+        <item name="android:textColor">@color/colorButtonText</item>
+
+        <!-- Other Colors -->
+        <item name="dividerColor">@color/colorDivider</item>
+        <item name="colorError">@color/colorError</item>
     </style>
 
     <style name="Theme.LoginRegister1" parent="Base.Theme.LoginRegister1" />

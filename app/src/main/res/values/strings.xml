@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">LoginRegister1</string>
+    <string name="username_hint">username\n</string>
+    <string name="password_hint">password\n</string>
+    <string name="login">login</string>
+    <string name="logo">logo</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register.</string>
+    <string name="login_page">LOGIN PAGE</string>
+    <string name="login_screen">LOGIN SCREEN</string>
+    <string name="LOGIN">LOGIN</string>
 </resources>
